@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><annotation>
+	<folder>glass</folder>
+	<filename>Image00462.jpg</filename>
+	<path>C:\Users\83543\JPEGImagesglass23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>716</width>
+		<height>1552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>big number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>538</ymin>
+			<xmax>554</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>small number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>680</ymin>
+			<xmax>431</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

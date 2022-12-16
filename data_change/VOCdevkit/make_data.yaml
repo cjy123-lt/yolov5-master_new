@@ -1,0 +1,11 @@
+# Custom data for safety helmet
+
+
+train: 'E:\parcel_data\yolov5-master\yolov5-master\data_change\VOCdevkit\images\train'
+val: 'E:\parcel_data\yolov5-master\yolov5-master\data_change\VOCdevkit\images\val'
+
+# num of classes
+nc: 2
+
+# Classes names
+names: ['big_number', 'small_number']

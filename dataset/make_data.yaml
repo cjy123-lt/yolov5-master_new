@@ -1,0 +1,10 @@
+# Custom data for safety helmet
+
+train: 'E:\parcel_data\yolov5-master_new\dataset\train\images'
+val: 'E:\parcel_data\yolov5-master_new\dataset\valid\images'
+
+# num of classes
+nc: 2
+
+# Classes names
+names: ['big_number', 'small_number']
